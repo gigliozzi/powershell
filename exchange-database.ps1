@@ -1,0 +1,2 @@
+﻿$data_A = "BRRJSHVGASUCAADB"
+$data_B = "BRRJSHVGASUCBBDB"

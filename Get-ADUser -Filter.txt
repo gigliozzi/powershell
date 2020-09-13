@@ -1,0 +1,8 @@
+Get-ADUser -Filter 'Name -like "*SvcAccount"' | Format-Table Name,SamAccountName -A
+Name             SamAccountName
+----             --------------
+SQL01 SvcAccount SQL01
+SQL02 SvcAccount SQL02
+IIS01 SvcAccount IIS01
+
+SupeR@2019

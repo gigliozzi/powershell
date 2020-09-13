@@ -1,0 +1,355 @@
+Nome	Tipo	Descrição	
+DL-AMP_ASP_DIGRA	Grupo de segurança - Universal		
+DL-AMP_ASP_DILOG	Grupo de segurança - Universal		
+DL-AMP_ASP_DIMAK	Grupo de segurança - Universal		
+DL-AMP_ASP_DIPES	Grupo de segurança - Universal		
+DL-AMP_ASP_DIRENV	Grupo de segurança - Universal		
+DL-AMP_ASP_DIRENV_SE	Grupo de segurança - Universal		
+DL-AMP_ASP_DIRENV_SUL_SP_CO	Grupo de segurança - Universal		
+DL-AMP_ASP_DIRFI	Grupo de segurança - Universal		
+DL-AMP_ASP_DIROP	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_CO	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_MG	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_N_NE	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_RJ_ES	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_SP	Grupo de segurança - Universal		
+DL-AMP_ASP_GEGRA_SUL	Grupo de segurança - Universal		
+DL-AMP_ASP_GER_MKT	Grupo de segurança - Universal		
+DL-AMP_ASP_GER_QUALIVAL	Grupo de segurança - Universal		
+DL-AMP_ASP_GER_USN	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_BDF	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_CCN	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_EBL	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_FJQ	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_FSA	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_M2U	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_MCT	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_NFO	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_NRE	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_PAR	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_PLD	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_RCX	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_RSR	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_SCG	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_SMA	Grupo de segurança - Universal		
+DL-AMP_ASP_GERENV_SPL	Grupo de segurança - Universal		
+DL-AMP_ASP_GERFI_MG_CO	Grupo de segurança - Universal		
+DL-AMP_ASP_GERFI_N_NE	Grupo de segurança - Universal		
+DL-AMP_ASP_GERFI_RJ_ES	Grupo de segurança - Universal		
+DL-AMP_ASP_GERFI_SUL	Grupo de segurança - Universal		
+DL-AMP_ASP_GERHU	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_CO	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_MG	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_N_NE	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_RJ_ES	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_SP	Grupo de segurança - Universal		
+DL-AMP_ASP_GERIA_SUL	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_BDF	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_CCN	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_MCT	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_NRE	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_PAR	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_RCX	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_SCG	Grupo de segurança - Universal		
+DL-AMP_ASP_GEROP_SPL	Grupo de segurança - Universal		
+DL-AMP_ASP_GERTI	Grupo de segurança - Universal		
+DL-AMZ_Celog	Grupo de segurança - Global	Lista de Distribuição de e-mail 	
+DL-AMZ_Price	Grupo de segurança - Global	Lista de Distribuição de e-mail 	
+DL-AMZ-ATENDIMENTO_WEBSITE_SUPERGASBRAS	Grupo de distribuição - Universal		
+DL-AMZ-COMITE_TRIBUTARIO	Grupo de distribuição - Universal		
+DL-AMZ-GEM	Grupo de distribuição - Universal	Lista de distribuição criada para os integrantes do Grupo do GEM Matriz.	
+DL-AMZ-GRC	Grupo de distribuição - Universal	Lista de Distribuição para Gestão de Risco e Controle 	
+DL-AMZ-JURIDICO_CONTENCIOSO	Grupo de distribuição - Universal	Lista de distribuicao de e-mail juridico.contencioso@supergasbras.com.br	
+DL-AMZ-JURIDICO_GOVERNANCA	Grupo de distribuição - Universal	Lista de distribuicao de e-mail juridico.governanca@supergasbras.com.br	
+DL-AMZ-MARCHADOR	Grupo de distribuição - Universal	Lista de Distribuição de e-mail	
+DL-AMZ-QSMS	Grupo de distribuição - Universal	Lista de distribuicao para a Gerencia de QSMS.	
+DL-AMZ-TI_FISCAL	Grupo de distribuição - Universal	Lista de Distribuição de e-mail da área Tributário	
+DL-AMZ-VMC_PROJETO	Grupo de distribuição - Universal	Lista de Distribuição da equipe de projeto - VMC (Venda com Medição de Consumo)	
+DL-ANJOS-RCC	Grupo de distribuição - Universal		
+DL-APP-BETIM	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Betim para receber as informações de App	
+DL-APP-BRASILIA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Brasilia para receber as informações de App	
+DL-APP-CANOAS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Canoas para receber as informações de App	
+DL-APP-CAXIAS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Caxias para receber as informações de App	
+DL-APP-CURITIBA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Curitiba para receber as informações de App	
+DL-APP-FLORIANOPOLIS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Florianopolis para receber as informações de App	
+DL-APP-LONDRINA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Londrina para receber as informações de App	
+DL-APP-SERRA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores de Serra para receber as informações de App	
+DL-APROVADORES_BORDERO	Grupo de distribuição - Universal		
+DL-ASSISTENTES-VD	Grupo de distribuição - Universal	Grupo do MIS assistentes de venda direta	
+DL-ASSISTENTES-VI	Grupo de distribuição - Universal	Grupo do MIS assistentes de venda indireta	
+DL-ATIVO-RCC	Grupo de distribuição - Universal	Lista de distribuição de colaboradores RCC Ativo	
+DL-AUDITORIA_INTERNA	Grupo de segurança - Universal	Lista de Distribuicao da Auditoria Interna	
+DL-AVISO_USO_INTERNET	Grupo de distribuição - Universal	Lista de Distribuição para acesso ao e-mail DL-AVISO_USO_INTERNET@supergasbras.com.br	
+DL-BACKOFFICE_INSTALACOES	Grupo de distribuição - Universal	Lista de Distribuição Backoffice de Instalações	
+DL-BACKOFFICE-COBRANCA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores da Cobranca	
+DL-BOOK_VIP-01	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-02	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-03	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-04	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-05	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-07	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-08	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-09	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-100	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-101	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-11	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-13	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-14	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-15	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-18	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-19	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-20	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-21	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-23	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-25	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-26	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-27	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-29	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-30	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-33	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-36	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-37	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-38	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-39	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-41	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-42	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-44	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-45	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-46	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-47	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-48	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-49	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-52	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-54	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-56	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-57	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-58	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-59	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-61	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-63	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-64	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-65	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-68	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-69	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-70	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-71	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-72	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-73	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-74	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-75	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-76	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-78	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-79	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-80	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-81	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-82	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-83	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-84	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-85	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-86	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-89	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-90	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-91	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-92	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-93	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-96	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-97	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-98	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK_VIP-99	Grupo de segurança - Universal	listas individuais de email para cada par de revendedor e consultor/promotor VIP	
+DL-BOOK-DIARIO-VIP	Grupo de distribuição - Universal	Lista de distribuição para os usuários Book diário do VIP	
+DL-BOOKRECLAMACOES_DIARIO_VIP	Grupo de distribuição - Universal		
+DL-BOOKRECLAMACOES_MENSAL_VIP	Grupo de segurança - Universal		
+DL-CEMAN	Grupo de distribuição - Universal	Lista de Distribuição para acesso ao e-mail DL-CEMAN@supergasbras.com.br	
+DL-Centralizacao_Fiscal	Grupo de distribuição - Universal	Lista de Distribuicao de e-mail da Centralizacao Fiscal	
+DL-CHECKLIST_SFE	Grupo de distribuição - Universal	Conta de e-mail para redirecionamento dos relatorios do checklist direto do SFE.	
+DL-CIPARJ	Grupo de distribuição - Universal	DL criada para a comissão interna de prevenção de acidente	
+DL-Cliente_Granel	Grupo de distribuição - Universal	Lista de Distribuicao de e-mail solicitada pela Diretora Angela Gomes.	
+DL-COBRANCA_ATIVA	Grupo de distribuição - Universal		
+DL-COBRANCA_OPERACAO	Grupo de distribuição - Universal	DL-COBRANCA_OPERACAO	
+DL-COBRANCA_RECEPTIVA	Grupo de distribuição - Universal		
+DL-Cobranca_Unidades	Grupo de distribuição - Universal	Lista de distribuição das equipe de Cobrança Unidades.	
+DL-COLABORADORES_FINCANCEIROS	Grupo de segurança - Universal		
+DL-COMITE-GESTAO_CRISE	Grupo de distribuição - Universal	Lista de distribuicao ao Comite de Gestao de Crises	
+DL-COMPROVANTES-SGI	Grupo de distribuição - Universal		
+DL-CONFERENCIA_RSR	Grupo de distribuição - Universal	Lista de distribuicao DL-CONFERENCIA_RSR	
+DL-CONTAS_A_PAGAR_UNIDADES	Grupo de distribuição - Universal		
+DL-CONTAS_A_RECEBER	Grupo de distribuição - Universal		
+DL-CONTROLE_ESTOQUE-SUPER_INDIVIDUAL	Grupo de distribuição - Universal	Lista de distribuição destina-se a colaboradores que irao controlar estoque do Projeto VMC.	
+DL-Coordenacao_Core	Grupo de segurança - Universal		
+DL-COORDENADORES-INSTALACOES	Grupo de distribuição - Universal	Lista de distribuição para os coordenadores de instalações	
+DL-CREDITO-VD	Grupo de distribuição - Universal		
+DL-Datasul_NFE	Grupo de segurança - Universal		
+DL-Datasul_SPED	Grupo de segurança - Universal		
+DL-Dia_das_Criancas	Grupo de distribuição - Universal	Lista de distribuição para receber email de votação do dia das crianças.	
+DL-DISTRIBUICAO_ENVASADO	Grupo de distribuição - Universal	Lista de distribuicao DL-DISTRIBUICAO_ENVASADO	
+DL-DISTRIBUICAO_RSR	Grupo de distribuição - Universal	Lista de distribuicao DL-DISTRIBUICAO_RSR	
+DL-FATURAMENTO-PAULINIA-CANOAS	Grupo de distribuição - Universal	Lista de Distribuicao Faturamento Paulinia - Canoas	
+DL-FECHAMENTO-MENSAL	Grupo de segurança - Universal	Lista de distribuição Fechamento Mensal	
+DL-Financeiro_Datasul	Grupo de distribuição - Universal		
+DL-FROTA_SGB	Grupo de distribuição - Universal	Lista de distribuicao do Setor de Frota	
+DL-GESTAO_DE_ADIANTAMENTOS	Grupo de distribuição - Universal		
+DL-GESTAO-RCC	Grupo de distribuição - Universal	lista de distribuição da célula do RCC	
+DL-GRC_SEGREGACAO_FUNCOES	Grupo de distribuição - Universal	Lista de email para o projeto SOD.	
+DL-GRUPO_DE_MONITORIA	Grupo de segurança - Universal		
+DL-GRUPO-DIVERSIDADE_E_SUPER	Grupo de distribuição - Universal	Lista de distribuicao criada para atender aos envolvidos no Projeto Diversidade e Super.	
+DL-Identity Manager	Grupo de segurança - Universal	Lista de Distribuicao SI - Gerencia de Identidade	
+DL-INFRA-ADMIN	Grupo de distribuição - Universal		
+DL-INFRA-ALL	Grupo de distribuição - Universal		
+DL-INFRA-GI	Grupo de distribuição - Universal	Lista de distribuição para os membro da Equipe de Gestão de Identidade	
+DL-INFRA-NOTAS_FISCAIS	Grupo de segurança - Universal		
+DL-INFRA-OA	Grupo de distribuição - Universal		
+DL-INFRA-OPERACAO	Grupo de distribuição - Universal		
+DL-INFRA-PRODUCAO	Grupo de distribuição - Universal		
+DL-INFRA-SD	Grupo de distribuição - Universal		
+DL-INFRA-SERVIDORES	Grupo de distribuição - Universal		
+DL-INFRA-TELECOM	Grupo de distribuição - Universal		
+DL-INFRA-TOTVS	Grupo de distribuição - Universal		
+DL-LOGISTICA-ARAUCARIA	Grupo de distribuição - Universal		
+DL-MONITORIA_MDE	Grupo de distribuição - Universal		
+DL-MTZ-TI_ARQUITETURA	Grupo de distribuição - Universal		
+DL-MTZ-TI_CORP	Grupo de distribuição - Universal		
+DL-MTZ-TI_INFRA_SI	Grupo de distribuição - Universal	Lista de distribuição para os usuário Infra TI da AMZ	
+DL-MTZ-TI_SAP_PERFIL	Grupo de distribuição - Universal		
+DL-MTZ-TI_SAP-N2	Grupo de distribuição - Universal		
+DL-MTZ-TI_SAP-SD	Grupo de distribuição - Universal		
+DL-MTZ-TI_SUSTENTACAO	Grupo de segurança - Universal		
+DL-MTZ-TI-SGI-SAPCCS_N2	Grupo de distribuição - Universal		
+DL-NB-BETIM	Grupo de distribuição - Universal	Lista de distribuicao para alarme dos nobreaks de Betim..	
+DL-NFE_Config	Grupo de distribuição - Universal		
+DL-NRE-DISTRIBUICAO_RECIFE	Grupo de distribuição - Universal		
+DL-OPERACAO_RCC	Grupo de distribuição - Universal	Lista de Distribuicao Operacao RCC	
+DL-PAGAMENTO-RCC	Grupo de distribuição - Universal	Lista de Distribuição Pagamento RCC	
+DL-PAR-ALMOXARIFADO	Grupo de distribuição - Universal	Lista de distribuição referente ao departamento de almoxarife.	
+DL-PLANEJAMENTO-FINANCEIRO	Grupo de distribuição - Universal		
+DL-PORTARIA_SUAPE	Grupo de segurança - Universal	Lista de distribuição da Portaria de SUAPE - NRE	
+DL-PRICING	Grupo de distribuição - Universal	DL criada para utilização da equipe do Pricing.	
+DL-PRIME	Grupo de segurança - Universal		
+DL-PROJETO_RICOH	Grupo de distribuição - Universal		
+DL-PROJETO_SER_TIME	Grupo de distribuição - Universal	Lista de distribuicao	
+DL-PROJETO-AMS-SAP	Grupo de distribuição - Universal		
+DL-PROJETOARGOS	Grupo de distribuição - Universal		
+DL-Projetos_NF-eletronica	Grupo de segurança - Universal	Grupo de E-mails do Projeto Nota Fiscal Eletronica	
+DL-Projetos_SolucaoFiscal	Grupo de segurança - Universal	Grupo de E-mails do Projeto Solucao Fiscal	
+DL-QUALIDADE-RCC	Grupo de distribuição - Universal	Lista de distribuição	
+DL-RCC_BETIM-PROSPECCAO	Grupo de distribuição - Universal	Lista com atendentes de Prospecção de RCC - Betim	
+DL-RCCRJ	Grupo de segurança - Global	Lista de Distribuição RCCRJ	
+DL-RCCRJ_G&B	Grupo de segurança - Global	Lista de Distribuição RCCRJ_G&B	
+DL-RCI	Grupo de segurança - Universal	Lista de Distribuicao Riscos e Controles Internos	
+DL-RCI & AI	Grupo de segurança - Universal	Lista de Distribuicao da Auditoria e Ricos e Controles Internos	
+DL-RCX_Price	Grupo de segurança - Universal	Lista de Distribuição de e-mail 	
+DL-RECEBIMENTO-FISCAL	Grupo de distribuição - Universal	Lista de distribuicao do Recebimento Fiscal	
+DL-REMUNERACAO	Grupo de distribuição - Universal	Lista de distribuição do RH	
+DL-RH_ADM_CENTRAL	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de ADM Central	
+DL-RH_AMZ	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH AMZ	
+DL-RH_ARAUCARIA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Araucária	
+DL-RH_BELEM	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Belém	
+DL-RH_BETIM	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Betim	
+DL-RH_BRASIL	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH BRASIL	
+DL-RH_BRASILIA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Brasilia	
+DL-RH_CANOAS	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Canoas	
+DL-RH_CAXIAS	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Caxias	
+DL-RH_FORTALEZA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Fortaleza	
+DL-RH_GOIANIA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Goiania	
+DL-RH_JEQUIE	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Jequie	
+DL-RH_LONDRINA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Londrina	
+DL-RH_MAUA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Maua	
+DL-RH_PAULINIA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Paulinia	
+DL-RH_QUALIVAL	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Qualival	
+DL-RH_RECIFE	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Recife	
+DL-RH_SERRA	Grupo de segurança - Universal	Lista de distribuição para os usuário do RH de Serra	
+DL-SAP-COMITE_EXECUTIVO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-COMITE_GESTOR	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-CONTROLLER_FINANCEIRO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-EQUIPE_PROJETO_SAP	Grupo de segurança - Universal	Lista de distribuição com todos os integrantes do Projeto Sap.	
+DL-SAP-EQUIPE_SONDA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_ARQUITETURA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_CONTROLADORIA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_DATA_QUALITY	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_DISTRIBUICAO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_FINANCAS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_GAS_VASILHAME	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_IMPOSTOS	Grupo de distribuição - Universal		
+DL-SAP-FRENTE_INFRAESTRUTURA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_INVESTIMENTOS_INSTALACOES	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_NEGOCIOS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_PERFIL_ACESSO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_PROCESSOS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-FRENTE_QUALIDADE	Grupo de distribuição - Universal		
+DL-SAP-FRENTE_SERVICOS	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-GMO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-GP	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-IMPLICO	Grupo de distribuição - Universal	Lista de distribuição dos recursos envolvidos na implementação do escopo da Implico.	
+DL-SAP-LEGADOS	Grupo de distribuição - Universal		
+DL-SAP-LIDER_FRENTE_FUNCIONAL	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-LIDER_FRENTE_TECNICA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-LIDER_PROCESSO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-LIDER_SONDA	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-PJ-FISCAL	Grupo de distribuição - Universal		
+DL-SAP-PJ-FISCAL_EQUIPE	Grupo de distribuição - Universal		
+DL-SAP-PJ-INFO_GERENCIAIS	Grupo de distribuição - Universal		
+DL-SAP-PJ-INFO_GERENCIAIS_BW	Grupo de distribuição - Universal		
+DL-SAP-PJ-INFO_GERENCIAIS_ETL	Grupo de distribuição - Universal		
+DL-SAP-PMO	Grupo de distribuição - Universal	Lista de distribuição de colaboradores e consultores do Projeto SAP	
+DL-SAP-PROJETOCSC	Grupo de distribuição - Universal	Lista de Distribuição Projeto SAP CSC	
+DL-SAP-Teste_Integrado	Grupo de distribuição - Universal		
+DL-SAP-UPGRADEOGSD	Grupo de distribuição - Universal	Lista de distribuição de colaboradores para recebimento das dúvidas técnicas e mensagens refrentes a RFP Upgrade OGSD	
+DL-SAP-VIAJANTES	Grupo de distribuição - Universal		
+DL-SEDE-SEG_INFO	Grupo de distribuição - Universal	Lista de Distribuição para comunicação da equipe de Segurança da Informação.	
+DL-SEGURANCA-AMZ	Grupo de distribuição - Universal	Facilitar as atividades da equipe de segurança do trabalho da Matriz durante a pandemia.	
+DL-SETOR_DE_INSTALACOES	Grupo de distribuição - Universal	Lista de Distribuição para todos do setor de Distribuição	
+DL-SFE	Grupo de distribuição - Universal	Lista de Distribuição para equipe SFE	
+DL-SGI-ARRECADACAO	Grupo de distribuição - Universal		
+DL-SGI-CADASTRO	Grupo de distribuição - Universal	Lista de distribuicao SGI Cadastro	
+DL-SGI-COBRANCA	Grupo de segurança - Universal		
+DL-SGI-FATURAMENTO	Grupo de distribuição - Universal		
+DL-SHVMDE_ADMIN	Grupo de distribuição - Universal	Lista de distribuição para e-mail da ferramenta Triangulus	
+DL-SISTEMAS-CORPORATIVOS	Grupo de distribuição - Universal	Lista de Distribuição Equipe Sistemas	
+DL-SQL-ADMIN	Grupo de segurança - Universal	Lista de Distribuição de e-mail referente ao ambiente novo SQL	
+DL-SQL-OPER	Grupo de segurança - Universal	Lista de Distribuição de e-mail referente ao ambiente novo SQL	
+DL-SUPER_GAS_INDIVIDUAL	Grupo de distribuição - Universal	Lista de distribuicao criada para comunicacao entre os envolvidos na operacao Gas Idividual.	
+DL-SUPER_SUPORTE-CADASTRO-USUARIO	Grupo de distribuição - Universal	Lista de distribuicao para suporte na fase de cadastro de usuarios do SAP.	
+DL-SUPERBOTAO	Grupo de distribuição - Universal	Lista de Distribuição	
+DL-supercanal_wle_gestor	Grupo de distribuição - Universal		
+DL-SUPER-COORDENADORES-NRE	Grupo de segurança - Universal	Lista de Distribuuição 	
+DL-SUPERGASBRAS_ORCAMENTO	Grupo de distribuição - Universal	Lista de Distribuição contanteo os usuários responsáveis pelo Orçamento nas Unidades de Negócio, USN e AMZ.	
+DL-SUPERGASBRAS-AMZ-TEAMTI	Grupo de distribuição - Universal		
+DL-Supervisao_Core	Grupo de segurança - Universal		
+DL-SUPERVISAO-RCC	Grupo de distribuição - Universal		
+DL-SUPERVISOR-VDE	Grupo de distribuição - Universal	Grupo do MIS de Supervisores VDE	
+DL-SUPORTE-TELEMETRIA-GRANEL	Grupo de segurança - Universal	Centralizar a comunicação dos fornecedores e usuários para dúvidas sobre eventos e dados da Telemetria Granel.	
+DL-SUPORTE-TOTVS	Grupo de distribuição - Universal	Lista de distribuicao criada para suporte ao Datasul.	
+DL-TECNICOS_ENFERMAGEM_TRABALHO	Grupo de distribuição - Universal	Lista de Distribuição Técnicos de Segurança do Trabalho	
+DL-TELEMETRIA_CENTRO-OESTE	Grupo de distribuição - Universal	Lista de Distribuicao Telemetria Centro-Oeste	
+DL-TELEMETRIA_CENTRO-OESTEII	Grupo de distribuição - Universal	DL criada pela request RITM0038094	
+DL-TELEMETRIA_NIVEL_CRITICO	Grupo de distribuição - Universal	Lista de Distribuicao Telemetria Nivel Critico	
+DL-TELEMETRIA_NORDESTE	Grupo de distribuição - Universal	Lista de Distribuicao Telemetria Nordeste	
+DL-TELEMETRIA_NORDESTEII	Grupo de distribuição - Universal	DL criada pela request RITM0038097	
+DL-TELEMETRIA_SPI	Grupo de distribuição - Universal	Criado através da Request RITM0038099	
+DL-TELEMETRIA_SPII	Grupo de distribuição - Universal	DL criada pela request RITM0038100	
+DL-TELEMETRIA_SUDESTE	Grupo de distribuição - Universal	Lista de Distribuicao Telemetria Sudeste	
+DL-TELEMETRIA_SUL	Grupo de distribuição - Universal	Lista de Distribuicao Telemetria Sul	
+DL-TELEMETRIA_SULII	Grupo de distribuição - Universal	DL criada pela request RITM0038102	
+DL-TESTE_POLICY	Grupo de distribuição - Universal		
+DL-TI-COORDENADORES	Grupo de distribuição - Universal	Lista de distribuição para os usuários de TI Coordenadores	
+DL-TI-REPORT	Grupo de distribuição - Universal	Lista de distribuição para os usuários de TI USN - AMZ	
+DL-TRAFEGO-RCC	Grupo de distribuição - Universal	Lista de distribuição do Tráfego RCC	
+DL-TRIBUTARIO	Grupo de distribuição - Universal	Lista de Distribuicao de colaboradores do Tributario	
+DL-TRIBUTARIO-SUPORTE-NEGOCIO	Grupo de distribuição - Universal		
+DL-USN_MEDICAO-INDIV-FULL	Grupo de segurança - Global		
+DL-USN-CADASTRO	Grupo de distribuição - Universal		
+DL-USN-CADASTRO_VMC	Grupo de distribuição - Universal	Lista de Distribuição Cadastro VMC	
+DL-USN-CELOG	Grupo de distribuição - Universal	lista de distribuição da célula de CELOG 	
+DL-USN-Estoque-Faturamento	Grupo de distribuição - Universal	lista de distribuição da célula de USN Estoque e Faturamento	
+DL-USN-GESTAO_DE_SERVICOS	Grupo de distribuição - Universal		
+DL-USN-RH	Grupo de distribuição - Universal	Lista de distribuição para os usuários do RH USN	
+DL-USN-TRIBDIRETOS	Grupo de distribuição - Universal	Lista de distribuição para os usuário do Tributário USN	
+DL-USN-TRIBUTARIO	Grupo de distribuição - Universal	Lista de distribuição para os usuário do Tributário USN	
+DL-USUARIOS_BES	Grupo de distribuição - Universal	Lista de distribuição contendo usuários do BES (BlackBerry).	
+DL-Usuarios_Datasul	Grupo de segurança - Universal	Lista de Distribuição dos usuarios do Datasul	
+DL-USUARIOS_SFE	Grupo de segurança - Universal	Lista de distribuição contendo usuários do SFE.	
+DL-VD-RECIFE	Grupo de distribuição - Universal	Listra de Distribuição	
+GL-SERVICE_DESK-SAP	Grupo de segurança - Global	Grupo de acesso a conta de e-mail service_desk-ti-sap@supergasbras.com.br.	
+RFP_TI	User		
+Supergasbras USN - Unidade de Suporte ao Negocio	Grupo de distribuição - Universal	Lista de distribuição para os colaboradores do USN	
+TESTGROUP	Grupo de distribuição - Universal		

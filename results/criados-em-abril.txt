@@ -1,0 +1,19 @@
+Nome	Tipo	User Logon Name	Modified	Pre-Windows 2000 Logon Name
+O365.teste01	User	O365.teste01@supergasbras.com.br	?14/?04/?2020 08:58:23	O365.teste01
+O365.teste02	User	O365.teste02@supergasbras.com.br	?14/?04/?2020 10:30:28	O365.teste02
+contasarecebersjc	User	contasarecebersjc@shvgas.com.br	?09/?04/?2020 17:28:35	contasarecebersjc
+Thiago Alves Araujo	User	tharaujo@shvgas.com.br	?07/?04/?2020 13:20:57	tharaujo
+Jair Pereira Dos Santos	User	jasantos@shvgas.com.br	?07/?04/?2020 13:44:30	jasantos
+Leonardo Guerino Nardi Leite	User	con-leonardo.leite@shvgas.com.br	?03/?04/?2020 11:47:02	con-leonardo.leite
+Andrea Marcovich Vieira	User	con-andrea.vieira@shvgas.com.br	?08/?04/?2020 14:22:09	con-andrea.vieira
+Rafael David Do Nascimento	User	rnascimento@shvgas.com.br	?07/?04/?2020 13:53:49	rnascimento
+Jones Anselmo Freitas	User	con-jones.freitas@shvgas.com.br	?14/?04/?2020 11:28:09	con-jones.freitas
+Sormani Rosa da Silva	User	con-sormani.silva@shvgas.com.br	?14/?04/?2020 13:40:14	con-sormani.silva
+Ligia Morais da Silva	User	con-ligia.silva@shvgas.com.br	?13/?04/?2020 13:55:14	con-ligia.silva
+Danilo Araujo Gomes	User	dgomes@shvgas.com.br	?01/?04/?2020 20:12:46	dgomes
+Kelson Matias De Carvalho	User	kelson.carvalho@shvgas.com.br	?16/?04/?2020 11:08:28	kelson.carvalho
+Renata Muniz De Oliveira Martins	User	renata.martins@shvgas.com.br	?16/?04/?2020 10:01:38	renata.martins
+Fabio Marcelo Gomes Gruber	User	con-fabio.gruber@shvgas.com.br	?07/?04/?2020 18:06:53	con-fabio.gruber
+Wanessa Nunes da Costa Rangel	User	con-wanessa.rangel@shvgas.com.br	?13/?04/?2020 11:12:05	con-wanessa.rangel
+Ibsen de Gorby do Nascimento	User	con-ibsen.nascimento@shvgas.com.br	?09/?04/?2020 19:54:25	con-ibsen.nascimento
+Bianca Souza Brandao do Amaral	User	con-bianca.amaral@shvgas.com.br	?16/?04/?2020 11:59:58	con-bianca.amaral

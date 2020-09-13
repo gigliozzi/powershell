@@ -1,0 +1,3 @@
+﻿
+
+Get-Mailbox > MailboxQuota.csv

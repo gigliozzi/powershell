@@ -1,0 +1,7 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"EmployeeID","givenName","sn","SamAccountName","Title","Department","Office","Enabled","Created"
+,"Eduardo",,"con-eduardo.silva",,,,"True","04/05/2020 16:51:59"
+,"Daniel",,"daniel.souza",,,,"True","06/05/2020 13:05:14"
+,"testBR1",,"testBR1",,,,"True","05/05/2020 05:18:23"
+,"testBR2",,"testBR2",,,,"True","05/05/2020 05:19:08"
+,"Test",,"testbr3",,,,"True","05/05/2020 11:17:22"
